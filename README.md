@@ -1,1 +1,1 @@
-# Luck-Balance-algo
+# Luck-Balance-algo The program maximizes luck by always losing unimportant contests and selectively losing up to k of the most luck-rewarding important contests. It gains luck from the contests lost and subtracts luck for the remaining important contests that must be won.
